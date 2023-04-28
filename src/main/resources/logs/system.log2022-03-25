@@ -1,0 +1,30 @@
+[01:14:21][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[01:14:22][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1140 ms
+[01:14:22][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[01:14:23][INFO ][FrameworkServlet.java:547] - Completed initialization in 916 ms
+[01:14:39][INFO ][MemberController.java:89] - login.do : Member [userid=admin, userpwd=1111, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[11:37:59][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[11:38:00][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1272 ms
+[11:38:00][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[11:38:01][INFO ][FrameworkServlet.java:547] - Completed initialization in 1026 ms
+[12:59:54][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[12:59:55][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1216 ms
+[12:59:55][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[12:59:57][INFO ][FrameworkServlet.java:547] - Completed initialization in 1082 ms
+[13:02:10][WARN ][DispatcherServlet.java:1251] - No mapping for GET /first/ndetail.do
+[16:03:01][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[16:03:02][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1166 ms
+[16:03:03][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[16:03:04][INFO ][FrameworkServlet.java:547] - Completed initialization in 1051 ms
+[16:03:16][INFO ][MemberController.java:89] - login.do : Member [userid=admin, userpwd=1111, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[16:03:26][INFO ][MemberController.java:89] - login.do : Member [userid=user01, userpwd=1111, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[16:03:29][WARN ][AbstractHandlerExceptionResolver.java:199] - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+[16:03:38][INFO ][MemberController.java:89] - login.do : Member [userid=user01, userpwd=1111, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[16:04:06][WARN ][DispatcherServlet.java:1251] - No mapping for GET /first/bdetail.do
+[17:05:17][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[17:05:18][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1196 ms
+[17:05:18][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[17:05:19][INFO ][FrameworkServlet.java:547] - Completed initialization in 1006 ms
+[17:05:46][WARN ][DispatcherServlet.java:1251] - No mapping for GET /first/blist.do
+[17:05:56][WARN ][DispatcherServlet.java:1251] - No mapping for GET /first/blist.do
+[17:06:39][WARN ][DispatcherServlet.java:1251] - No mapping for GET /first/blist.do

@@ -1,0 +1,132 @@
+[01:06:01][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[01:06:03][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1147 ms
+[01:06:03][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[01:06:04][INFO ][FrameworkServlet.java:547] - Completed initialization in 1073 ms
+[01:06:07][DEBUG][LoggerInterceptor.java:26] - ============ START =========
+[01:06:07][DEBUG][LoggerInterceptor.java:27] - /first/blist.do
+[01:06:07][DEBUG][LoggerInterceptor.java:28] - -----------------------------------------
+[01:06:08][DEBUG][LoggerInterceptor.java:44] - ----------------View-------------------
+[01:06:08][DEBUG][LoggerInterceptor.java:55] - ============== END ===========
+[01:06:09][DEBUG][LoggerInterceptor.java:26] - ============ START =========
+[01:06:09][DEBUG][LoggerInterceptor.java:27] - /first/main.do
+[01:06:09][DEBUG][LoggerInterceptor.java:28] - -----------------------------------------
+[01:06:09][DEBUG][LoggerInterceptor.java:44] - ----------------View-------------------
+[01:06:09][DEBUG][LoggerInterceptor.java:55] - ============== END ===========
+[01:06:09][DEBUG][LoggerInterceptor.java:26] - ============ START =========
+[01:06:09][DEBUG][LoggerInterceptor.java:26] - ============ START =========
+[01:06:09][DEBUG][LoggerInterceptor.java:27] - /first/ntop3.do
+[01:06:09][DEBUG][LoggerInterceptor.java:28] - -----------------------------------------
+[01:06:09][DEBUG][LoggerInterceptor.java:27] - /first/btop3.do
+[01:06:09][DEBUG][LoggerInterceptor.java:28] - -----------------------------------------
+[01:06:09][DEBUG][LoggerInterceptor.java:44] - ----------------View-------------------
+[01:06:09][DEBUG][LoggerInterceptor.java:44] - ----------------View-------------------
+[01:06:09][DEBUG][LoggerInterceptor.java:55] - ============== END ===========
+[01:06:09][DEBUG][LoggerInterceptor.java:55] - ============== END ===========
+[01:06:21][DEBUG][LoggerInterceptor.java:26] - ============ START =========
+[01:06:21][DEBUG][LoggerInterceptor.java:27] - /first/main.do
+[01:06:21][DEBUG][LoggerInterceptor.java:28] - -----------------------------------------
+[01:06:21][DEBUG][LoggerInterceptor.java:44] - ----------------View-------------------
+[01:06:21][DEBUG][LoggerInterceptor.java:55] - ============== END ===========
+[01:06:21][DEBUG][LoggerInterceptor.java:26] - ============ START =========
+[01:06:21][DEBUG][LoggerInterceptor.java:27] - /first/ntop3.do
+[01:06:21][DEBUG][LoggerInterceptor.java:28] - -----------------------------------------
+[01:06:21][DEBUG][LoggerInterceptor.java:26] - ============ START =========
+[01:06:21][DEBUG][LoggerInterceptor.java:27] - /first/btop3.do
+[01:06:21][DEBUG][LoggerInterceptor.java:28] - -----------------------------------------
+[01:06:21][DEBUG][LoggerInterceptor.java:44] - ----------------View-------------------
+[01:06:21][DEBUG][LoggerInterceptor.java:55] - ============== END ===========
+[01:06:21][DEBUG][LoggerInterceptor.java:44] - ----------------View-------------------
+[01:06:21][DEBUG][LoggerInterceptor.java:55] - ============== END ===========
+[01:06:23][DEBUG][LoggerInterceptor.java:26] - ============ START =========
+[01:06:23][DEBUG][LoggerInterceptor.java:27] - /first/blist.do
+[01:06:23][DEBUG][LoggerInterceptor.java:28] - -----------------------------------------
+[01:06:23][DEBUG][LoggerInterceptor.java:44] - ----------------View-------------------
+[01:06:23][DEBUG][LoggerInterceptor.java:55] - ============== END ===========
+[01:06:26][DEBUG][LoggerInterceptor.java:26] - ============ START =========
+[01:06:26][DEBUG][LoggerInterceptor.java:27] - /first/logout.do
+[01:06:26][DEBUG][LoggerInterceptor.java:28] - -----------------------------------------
+[01:06:26][DEBUG][LoggerInterceptor.java:44] - ----------------View-------------------
+[01:06:26][DEBUG][LoggerInterceptor.java:55] - ============== END ===========
+[01:06:26][DEBUG][LoggerInterceptor.java:26] - ============ START =========
+[01:06:26][DEBUG][LoggerInterceptor.java:26] - ============ START =========
+[01:06:26][DEBUG][LoggerInterceptor.java:27] - /first/ntop3.do
+[01:06:26][DEBUG][LoggerInterceptor.java:27] - /first/btop3.do
+[01:06:26][DEBUG][LoggerInterceptor.java:28] - -----------------------------------------
+[01:06:26][DEBUG][LoggerInterceptor.java:28] - -----------------------------------------
+[01:06:26][DEBUG][LoggerInterceptor.java:44] - ----------------View-------------------
+[01:06:26][DEBUG][LoggerInterceptor.java:44] - ----------------View-------------------
+[01:06:26][DEBUG][LoggerInterceptor.java:55] - ============== END ===========
+[01:06:26][DEBUG][LoggerInterceptor.java:55] - ============== END ===========
+[01:06:29][DEBUG][LoggerInterceptor.java:26] - ============ START =========
+[01:06:29][DEBUG][LoggerInterceptor.java:27] - /first/bwform.do
+[01:06:29][DEBUG][LoggerInterceptor.java:28] - -----------------------------------------
+[01:06:29][INFO ][LoginCheckInterceptor.java:33] - 비로그인 상태로 요청 : /first/bwform.do
+[01:06:29][INFO ][LoginCheckInterceptor.java:39] - Referer : http://127.0.0.1:8888/first/blist.do?page=1
+[01:06:29][INFO ][LoginCheckInterceptor.java:43] - Origin : null
+[01:06:29][INFO ][LoginCheckInterceptor.java:47] - url : http://127.0.0.1:8888/first/bwform.do
+[01:06:29][INFO ][LoginCheckInterceptor.java:50] - uri : /first/bwform.do
+[01:06:29][DEBUG][LoggerInterceptor.java:55] - ============== END ===========
+[01:16:12][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[01:16:13][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1125 ms
+[01:16:13][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[01:16:14][INFO ][FrameworkServlet.java:547] - Completed initialization in 1065 ms
+[01:16:21][DEBUG][LoggerInterceptor.java:26] - ============ START =========
+[01:16:21][DEBUG][LoggerInterceptor.java:27] - /first/main.do
+[01:16:21][DEBUG][LoggerInterceptor.java:28] - -----------------------------------------
+[01:16:21][DEBUG][LoggerInterceptor.java:44] - ----------------View-------------------
+[01:16:21][DEBUG][LoggerInterceptor.java:55] - ============== END ===========
+[01:16:21][DEBUG][LoggerInterceptor.java:26] - ============ START =========
+[01:16:21][DEBUG][LoggerInterceptor.java:26] - ============ START =========
+[01:16:21][DEBUG][LoggerInterceptor.java:27] - /first/ntop3.do
+[01:16:21][DEBUG][LoggerInterceptor.java:27] - /first/btop3.do
+[01:16:21][DEBUG][LoggerInterceptor.java:28] - -----------------------------------------
+[01:16:21][DEBUG][LoggerInterceptor.java:28] - -----------------------------------------
+[01:16:22][DEBUG][LoggerInterceptor.java:44] - ----------------View-------------------
+[01:16:22][DEBUG][LoggerInterceptor.java:44] - ----------------View-------------------
+[01:16:22][DEBUG][LoggerInterceptor.java:55] - ============== END ===========
+[01:16:22][DEBUG][LoggerInterceptor.java:55] - ============== END ===========
+[01:16:23][DEBUG][LoggerInterceptor.java:26] - ============ START =========
+[01:16:23][DEBUG][LoggerInterceptor.java:27] - /first/moveAOP.do
+[01:16:23][DEBUG][LoggerInterceptor.java:28] - -----------------------------------------
+[01:16:23][DEBUG][LoggerInterceptor.java:44] - ----------------View-------------------
+[01:16:23][DEBUG][LoggerInterceptor.java:55] - ============== END ===========
+[01:20:29][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[01:20:30][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1121 ms
+[01:20:30][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[01:20:31][INFO ][FrameworkServlet.java:547] - Completed initialization in 1062 ms
+[01:20:40][DEBUG][LoggerInterceptor.java:26] - ============ START =========
+[01:20:40][DEBUG][LoggerInterceptor.java:27] - /first/main.do
+[01:20:40][DEBUG][LoggerInterceptor.java:28] - -----------------------------------------
+[01:20:40][DEBUG][LoggerInterceptor.java:44] - ----------------View-------------------
+[01:20:40][DEBUG][LoggerInterceptor.java:55] - ============== END ===========
+[01:20:40][DEBUG][LoggerInterceptor.java:26] - ============ START =========
+[01:20:40][DEBUG][LoggerInterceptor.java:26] - ============ START =========
+[01:20:40][DEBUG][LoggerInterceptor.java:27] - /first/btop3.do
+[01:20:40][DEBUG][LoggerInterceptor.java:28] - -----------------------------------------
+[01:20:40][DEBUG][LoggerInterceptor.java:27] - /first/ntop3.do
+[01:20:40][DEBUG][LoggerInterceptor.java:28] - -----------------------------------------
+[01:20:41][DEBUG][LoggerInterceptor.java:44] - ----------------View-------------------
+[01:20:41][DEBUG][LoggerInterceptor.java:44] - ----------------View-------------------
+[01:20:41][DEBUG][LoggerInterceptor.java:55] - ============== END ===========
+[01:20:41][DEBUG][LoggerInterceptor.java:55] - ============== END ===========
+[12:12:52][INFO ][TestDBConnect.java:26] - ----테스트 시작----
+[12:12:52][INFO ][TestDBConnect.java:31] - ----테스트 종료----
+[12:16:25][INFO ][TestDBConnect.java:26] - ----테스트 시작----
+[12:16:25][INFO ][TestDBConnect.java:39] - session : org.mybatis.spring.SqlSessionTemplate@34c01041
+[12:16:25][INFO ][TestDBConnect.java:31] - ----테스트 종료----
+[12:56:02][INFO ][TestMemberController.java:45] - setup();메소드 실행
+[12:56:02][DEBUG][LoggerInterceptor.java:26] - ============ START =========
+[12:56:02][DEBUG][LoggerInterceptor.java:27] - /login.do
+[12:56:02][DEBUG][LoggerInterceptor.java:28] - -----------------------------------------
+[12:56:02][INFO ][MemberController.java:91] - login.do : Member [userid=user01, userpwd=1111, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[12:56:03][DEBUG][LoggerInterceptor.java:44] - ----------------View-------------------
+[12:56:03][DEBUG][LoggerInterceptor.java:55] - ============== END ===========
+[13:13:08][INFO ][TestMemberController.java:46] - setup();메소드 실행
+[13:13:08][INFO ][TestMemberController.java:63] - 회원가입 테스트
+[13:13:08][DEBUG][LoggerInterceptor.java:26] - ============ START =========
+[13:13:08][DEBUG][LoggerInterceptor.java:27] - /enroll.do
+[13:13:08][DEBUG][LoggerInterceptor.java:28] - -----------------------------------------
+[13:13:08][INFO ][MemberController.java:137] - enroll.do : Member [userid=user04, userpwd=pass04, username=테스터, gender=F, age=34, phone=01055520440, email=user04@test.org, hobby=game,reading, etc=junit테스트실험, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[13:13:08][INFO ][MemberController.java:141] - after encode : Member [userid=user04, userpwd=$2a$10$ImbUPZqByz7Es.okGO4b3.7nxdw8GDNfCPOzQIcHF09wvSqtwPfsi, username=테스터, gender=F, age=34, phone=01055520440, email=user04@test.org, hobby=game,reading, etc=junit테스트실험, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[13:13:09][DEBUG][LoggerInterceptor.java:44] - ----------------View-------------------
+[13:13:09][DEBUG][LoggerInterceptor.java:55] - ============== END ===========

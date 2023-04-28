@@ -1,0 +1,80 @@
+[09:38:58][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[09:38:59][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1170 ms
+[09:38:59][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[09:39:00][INFO ][FrameworkServlet.java:547] - Completed initialization in 926 ms
+[09:40:44][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[09:40:45][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1126 ms
+[09:40:45][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[09:40:46][INFO ][FrameworkServlet.java:547] - Completed initialization in 920 ms
+[09:40:59][INFO ][MemberController.java:86] - login.do : Member [userid=admin, userpwd=1111, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[11:24:10][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[11:24:11][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1254 ms
+[11:24:11][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[11:24:12][INFO ][FrameworkServlet.java:547] - Completed initialization in 1003 ms
+[11:24:28][INFO ][MemberController.java:87] - login.do : Member [userid=user01, userpwd=1111, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[11:26:24][INFO ][MemberController.java:87] - login.do : Member [userid=admin, userpwd=admin, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[11:26:38][WARN ][AbstractHandlerExceptionResolver.java:199] - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+[11:26:43][INFO ][MemberController.java:87] - login.do : Member [userid=admin, userpwd=1111, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[12:56:24][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[12:56:25][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1243 ms
+[12:56:25][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[12:56:26][INFO ][FrameworkServlet.java:547] - Completed initialization in 994 ms
+[12:57:05][INFO ][MemberController.java:87] - login.do : Member [userid=admin, userpwd=1111, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[12:57:18][INFO ][MemberController.java:258] - loginok.do : user01, N
+[12:57:22][INFO ][MemberController.java:258] - loginok.do : user02, N
+[12:57:25][INFO ][MemberController.java:258] - loginok.do : user02, Y
+[12:57:27][INFO ][MemberController.java:258] - loginok.do : user01, Y
+[13:02:41][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[13:02:42][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1160 ms
+[13:02:42][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[13:02:43][INFO ][FrameworkServlet.java:547] - Completed initialization in 956 ms
+[13:02:55][INFO ][MemberController.java:87] - login.do : Member [userid=admin, userpwd=, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[13:03:01][INFO ][MemberController.java:87] - login.do : Member [userid=admin, userpwd=1111, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[13:03:10][INFO ][MemberController.java:258] - loginok.do : user01, N
+[13:03:30][INFO ][MemberController.java:258] - loginok.do : passenco, N
+[13:04:38][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[13:04:39][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1148 ms
+[13:04:39][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[13:04:40][INFO ][FrameworkServlet.java:547] - Completed initialization in 943 ms
+[13:06:20][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[13:06:22][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1153 ms
+[13:06:22][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[13:06:23][INFO ][FrameworkServlet.java:547] - Completed initialization in 937 ms
+[13:06:34][INFO ][MemberController.java:258] - loginok.do : user02, N
+[13:06:46][INFO ][MemberController.java:87] - login.do : Member [userid=user02, userpwd=1111, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[13:06:53][INFO ][MemberController.java:87] - login.do : Member [userid=admin, userpwd=1111, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[14:47:11][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[14:47:12][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1161 ms
+[14:47:12][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[14:47:13][INFO ][FrameworkServlet.java:547] - Completed initialization in 956 ms
+[14:47:27][INFO ][MemberController.java:87] - login.do : Member [userid=admin, userpwd=1111, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[15:15:56][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[15:15:57][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1145 ms
+[15:15:57][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[15:15:58][INFO ][FrameworkServlet.java:547] - Completed initialization in 938 ms
+[15:16:08][INFO ][MemberController.java:89] - login.do : Member [userid=ad, userpwd=, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[15:16:14][INFO ][MemberController.java:89] - login.do : Member [userid=admin, userpwd=1111, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[15:16:50][INFO ][MemberController.java:260] - loginok.do : user02, Y
+[15:17:45][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[15:17:46][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1179 ms
+[15:17:46][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[15:17:47][INFO ][FrameworkServlet.java:547] - Completed initialization in 954 ms
+[15:18:34][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[15:18:36][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1177 ms
+[15:18:36][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[15:18:37][INFO ][FrameworkServlet.java:547] - Completed initialization in 962 ms
+[15:19:49][INFO ][MemberController.java:260] - loginok.do : user02, N
+[17:34:14][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[17:34:15][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1164 ms
+[17:34:15][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[17:34:16][INFO ][FrameworkServlet.java:547] - Completed initialization in 945 ms
+[17:34:35][INFO ][MemberController.java:89] - login.do : Member [userid=admin, userpwd=1111, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[17:53:51][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[17:53:52][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1161 ms
+[17:53:52][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[17:53:53][INFO ][FrameworkServlet.java:547] - Completed initialization in 946 ms
+[17:55:49][INFO ][MemberController.java:89] - login.do : Member [userid=admin, userpwd=1111, username=null, gender=null, age=0, phone=null, email=null, hobby=null, etc=null, enroll_date=null, lastmodified=null, login_ok=null, admin=null]
+[17:56:44][INFO ][ContextLoader.java:271] - Root WebApplicationContext: initialization started
+[17:56:45][INFO ][ContextLoader.java:307] - Root WebApplicationContext initialized in 1166 ms
+[17:56:45][INFO ][FrameworkServlet.java:525] - Initializing Servlet 'appServlet'
+[17:56:46][INFO ][FrameworkServlet.java:547] - Completed initialization in 948 ms
